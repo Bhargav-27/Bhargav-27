@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/https://www.twitter.com/bhargav86025911?t=f9_uo9diormuwfubbv1nna&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.twitter.com/bhargav86025911?t=f9_uo9diormuwfubbv1nna&s=09?logo=twitter&style=for-the-badge" alt="https://www.twitter.com/bhargav86025911?t=f9_uo9diormuwfubbv1nna&s=09" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks , courses**
 
